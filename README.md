@@ -30,16 +30,6 @@ The project emphasizes:
 
 ---
 
-## 🧾 Core Modules
-
-* `Main.java` – Launches the system
-* `models/` – Data classes (Student, Instructor, Course...)
-* `services/` – Business logic and operations
-* `controllers/` – Input management and process handling
-* `interfaces/` – Abstract behaviors & contracts
-* `utils/` – Helper functions and reusable logic
-
----
 
 ## 🚀 Getting Started
 
